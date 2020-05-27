@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("sign", "taurus".toString());
         startActivity(intent);
     }
+    
 
     public void gemini(View view) {
         Toast.makeText(getApplicationContext(), "Gemini", Toast.LENGTH_SHORT).show();
