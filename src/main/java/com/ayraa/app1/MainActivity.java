@@ -16,12 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void aries(View view) {
-        Toast.makeText(getApplicationContext(), "Aries", Toast.LENGTH_SHORT).show();
-        Intent intent = new Intent(this, Details.class);
-        intent.putExtra("sign", "aries".toString());
-        startActivity(intent);
-    }
+   
 
     public void taurus(View view) {
         Toast.makeText(getApplicationContext(), "Taurus", Toast.LENGTH_SHORT).show();
