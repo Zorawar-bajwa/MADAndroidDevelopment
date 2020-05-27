@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">Zodiac Signs</string>
+    <string name="horoscope">Horoscope</string>
+    <string name="title">Horoscope 2020</string>
+    <string name="copy">Copyright &#169;  Ayraa Informatics Inc. 2020</string>
+    <string name="home">Go Home</string>
+    <string name="aries">aries</string>
+    <string name="taurus">taurus</string>
+    <string name="gemini">gemini</string>
+    <string name="cancer">cancer</string>
+    <string name="leo">leo</string>
+    <string name="virgo">virgo</string>
+    <string name="libra">libra</string>
+    <string name="scorpio">scorpio</string>
+    <string name="sagittarius">sagittarius</string>
+    <string name="capricorn">capricorn</string>
+    <string name="aquarius">aquarius</string>
+    <string name="pisces">pisces</string>
+
+    <string name="aries_text"><![CDATA[
+        <h1>Aries</h1>
+        <strong>March 21 to April 19</strong><br>
+        <strong>LUCKY NUMBER:</strong><b>7-17-21</b><br>
+        <strong>Element:</strong> Fire <br>
+        <strong>Color:</strong>Bright Red <br>
+        <strong>Lucky Day</strong> Tuesday <br>
+        <p align="justify">
+            Choose lucky number <b>7, 11 , 12</b>
+            For making Business: Scorpio, Libra, and Taurus.
+            For finding Love: Leo, Sagittarius
+           </p>
+       ]]></string>
+
+    <string name="taurus_text"><![CDATA[
+        <h1>Taurus</h1>
+        <strong>April 20 to May 20<strong><br>
+        <strong>LUCKY NUMBER:</strong><b>4-6-11</b><br>
+        <strong>Element:</strong> Earth<br>
+        <strong>Color:</strong>Leaf Green<br>
+
+        <p align="justify">
+            Choose lucky number <b>4,6,11</b>
+            For making business: Gemini, Libra, Scorpio, and Sagittarius.
+            for finding love: Virgo, Capricorn.
+            </p>
+    ]]></string>
+
+    <string name="gemini_text"><![CDATA[
+        <h1>Gemini</h1>
+        <strong>May 21 to June 20<strong><br>
+        <strong>LUCKY NUMBER:</strong><b>3-12-18</b><br>
+        <strong>Element:</strong>Air<br>
+        <strong>Color:</strong>lemon green, orange<br>
+
+		<p align="justify">
+			Choose lucky number <b>3,12,18</b>
+            For making business: Cancer, Scorpio, Sagittarius, and Capricorn.
+            To find love: Libra, Pisces.
+			</p>
+    ]]></string>
+
+
+    <string name="cancer_text"><![CDATA[
+        <h1>Cancer</h1>
+        <strong>July 20 – Aug 10<strong><br>
+        <strong>LUCKY NUMBER:</strong><b>2-8-12</b><br>
+        <strong>Element:</strong> Water<br>
+        <strong>Color:</strong>White,Silver<br>
+
+        <p align="justify">
+          Choose lucky number <b>2,8,12</b>
+          For making business: Leo, Taurus, Capricorn, Aquarius.
+          For finding love: Scorpio and Taurus.
+           </p>
+    ]]></string>
+
+
+    <string name="leo_text"><![CDATA[
+        <h1>LEO</h1>
+        <strong>Aug 10 – Sept 16<strong><br>
+        <strong>LUCKY NUMBER:</strong><b>1-9-10</b><br>
+        <strong>Element:</strong>  Fire<br>
+        <strong>Color:</strong> Green<br>
+        <p align="justify">
+             Choose lucky number <b>1-9-10</b>
+             For making business: Virgo, Capricorn, Aquarius, Taurus.
+             To find love: Aries and Sagittarius
+
+       </p>
+    ]]></string>
+
+    <string name="virgo_text"><![CDATA[
+        <h1>Virgo</h1>
+        <strong>August 23 - September 22<strong><br>
+        <strong>LUCKY NUMBER:</strong><b>1-15-27</b><br>
+        <strong>Element:</strong> Air<br>
+        <strong>Color:</strong> Green<br>
+        <p align="justify">
+            Choose lucky number <b>1-15-27</b>
+            For making business: Libra, Gemini, Pisces, Taurus.
+            To find love: Pisces, Cancer
+        </p>
+    ]]></string>
+
+    <string name="libra_text"><![CDATA[
+        <h1>LIBRA</h1>
+        <strong>September 23 - October 22<strong><br>
+        <strong>LUCKY NUMBER:</strong><b>2-8-19</b><br>
+        <strong>Element:</strong> Earth<br>
+        <strong>Color:</strong> Green<br>
+
+        <p align="justify">
+            Choose Lucky numbers  2-8-19
+            For making business: Pisces, Taurus, and Gemini.
+            To find love: Aquarius and Leo
+          </p>
+    ]]></string>
+
+
+
+    <string name="scorpio_text"><![CDATA[
+        <h1>Scorpio</h1>
+        <strong>October 23 - November 21<strong><br>
+        <strong>LUCKY NUMBER:</strong><b>4-8-21</b><br>
+        <strong>Element:</strong> Water<br>
+         <strong>Color:</strong> Violet, Purple<br>
+        <p align="justify">
+         Choose Lucky numbers 4-8-21
+         For making business: Sagittarius – Aries – Taurus – Gemini
+         To find love: Pisces and cancer.
+
+         </p>
+    ]]></string>
+
+
+    <string name="sagittarius_text"><![CDATA[
+        <h1>Sagittarius</h1>
+        <strong>November 22 - December 21<strong><br>
+        <strong>LUCKY NUMBER:</strong><b>3-6-25</b><br>
+        <strong>Element:</strong> Fire<br>
+        <strong>Color:</strong>Black,Gray <br>
+        <p align="justify">
+            Choose Lucky numbers  3-6-25
+            For making business: Cancer, Scorpio, Libra, Virgo, Leo
+            To find love: Cancer, Scorpio.
+
+            </p>
+    ]]></string>
+
+
+    <string name="capricorn_text"><![CDATA[
+        <h1>Capricorn</h1>
+        <strong>December 22 - January 19<strong><br>
+        <strong>LUCKY NUMBER:</strong><b>9-14-1</b><br>
+        <strong>Element:</strong> Earth<br>
+        <strong>Color:</strong>Gray,Green<br>
+        <p align="justify">
+         Choose Lucky numbers  9-14-1
+         For making business: Cancer, Scorpio, Libra, Virgo, Leo
+         To find love: Cancer, Scorpio.
+         </p>
+    ]]></string>
+
+    <string name="aquarius_text"><![CDATA[
+        <h1>Aquarius</h1>
+        <strong>January 20 - February 18<strong><br>
+        <strong>LUCKY NUMBER:</strong><b>7-9-20</b><br>
+        <strong>Element:</strong> Air<br>
+        <strong>Color:</strong>Light blue,violet<br>
+        <p align="justify">
+            Choose Lucky numbers 7-9-20
+            For making business: Pisces, Cancer, Leo, and Scorpio.
+            To find love: Leo, Libra, Pisces
+        </p>
+    ]]></string>
+
+
+    <string name="pisces_text"><![CDATA[
+        <h1>Taurus</h1>
+        <strong>February 19 - March 20<strong><br>
+        <strong>LUCKY NUMBER:</strong><b>5-11-19</b><br>
+        <strong>Element:</strong>Water<br>
+        <strong>Color:</strong>Navy blue, Sea green<br>
+        <p align="justify">
+        Choose Lucky numbers 5-11-19
+        For making business: Aries, Libra, and Virgo.
+        To find love: Leo, Aries, and Taurus
+        </p>
+    ]]></string>
+
+
+
+
+
+
+
+
+
+</resources>
